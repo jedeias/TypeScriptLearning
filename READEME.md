@@ -1,1 +1,0 @@
-# In this project, I am learning TypeScript. It is similar to JavaScript but includes typing and supports object-oriented programming (OOP).
