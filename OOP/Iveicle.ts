@@ -1,4 +1,5 @@
-//interfaces 
+// interfaces 
+// interface is a type of Abstraction
 
 export interface Iveicle{
     
